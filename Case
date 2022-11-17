@@ -1,0 +1,15 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package edu.centralenantes.monoploy;
+
+/**
+ *
+ * @author aulou
+ */
+public abstract class Case {
+    private String nom;
+    public abstract String GetNom();
+    public abstract void ToString();
+}
